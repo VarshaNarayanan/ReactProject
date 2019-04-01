@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checks out against a snapshot 1`] = `
+<div
+  className="footer"
+>
+  <hr />
+  <p>
+    Copyright © 2017 
+    Frobisher & Spalding
+  </p>
+  <address>
+    1100 Avenue A
+    <br />
+    New York
+    , 
+    NY
+    <br />
+    10023
+  </address>
+</div>
+`;

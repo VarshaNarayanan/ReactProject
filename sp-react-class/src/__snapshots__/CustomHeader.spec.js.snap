@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checks out the snapshot 1`] = `
+<header
+  className="page-header"
+>
+  <ul>
+    <li>
+      one
+    </li>
+    <li>
+      Two
+    </li>
+    <li>
+      Three
+    </li>
+  </ul>
+</header>
+`;
